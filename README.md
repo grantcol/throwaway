@@ -1,6 +1,7 @@
 # throwaway
 testing some git commands
-amendingg
+forced amendment
+
 
 
 
