@@ -1,4 +1,4 @@
 # throwaway
 testing some git commands
-00
+amending
 
