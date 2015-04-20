@@ -1,4 +1,4 @@
 # throwaway
 testing some git commands
-test01000
+0000
 
